@@ -1,0 +1,15 @@
+.card-container{
+    background:#ccc;
+
+}
+.card-desription{
+    text-align: justify;
+}
+
+.sharebutton{
+    float:right;
+}
+
+.likeButton{
+    float:left;
+}
